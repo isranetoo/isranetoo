@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isranetoo&label=Profile%20views&color=0e75b6&style=flat" alt="isranetoo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isranetoo" alt="isranetoo" /></a> </p>
-
 - 🔭 I’m currently working on **CodersHub**
 
 <h3 align="left">Connect with me:</h3>
