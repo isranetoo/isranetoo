@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isranetoo&label=Profile%20views&color=0e75b6&style=flat" alt="isranetoo" /> </p>
 
-- 🔭 I’m currently working on [CodersHub](https://www.youtube.com/channel/UC0sygydx1Aa-7j-ExgM9rQg)
+- 🔭 I’m currently working on [TechCodee](https://www.linkedin.com/company/techcodee)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
